@@ -1,1 +1,1 @@
-
+This repository is for package installations for most DevOps tools. The scripts are to be use for unbuntu/debian OS. I will try as much as possible to update them with subsequent new releases. If you run into any issues running the scripts please do refer back to the documentations.
